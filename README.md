@@ -1,6 +1,8 @@
+<h1>Jamming Is Illegal!!!</h1>
+
 ==========================================================
 
-   Hardware needed:
+   <h4>Hardware needed:</h4>
 
 -ESP32 WROOM
 
@@ -12,7 +14,7 @@
 
 ==========================================================
 
-   Libraries:
+   <h4>Libraries:</h4>
 
 -RF24 by TMRh20
 
@@ -20,7 +22,7 @@
 
 ==========================================================
 
-   Connection:
+   <h4>Connection:</h4>
 
 -HSPI=>  SCK = 14, MISO = 12, MOSI = 13, CS = 15, CE = 16
 
@@ -28,7 +30,7 @@
 
 ==========================================================
 
-   Channel Ranges:
+   <h4>Channel Ranges:</h4>
 
 -BLUETOOTH - 80 
 

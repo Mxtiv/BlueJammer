@@ -62,7 +62,7 @@ void two() {
 }
 
 void one() {
-  for (int i = 0; i < 79; i++) {
+  for (int i = 0; i < 15; i++) {
     radio.setChannel(i);
   }
 }
